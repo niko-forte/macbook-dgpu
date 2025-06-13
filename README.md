@@ -11,3 +11,5 @@ And then run it on the terminal and run these commands.
 sudo python3 no_dGPU.py</pre>
 All you have to do is follow the on-screen instructions.
 ![](https://github.com/niko-forte/macbook-dgpu/blob/main/image-002.png)
+
+If the device enters a reboot loop it means we are correct, just remove the USB drive, to boot from the USB drive turn off the MacBook (it is recommended to remove the main storage drive) and while it is off hold down the options key while turning on your MacBook (with the USB drive inserted)
