@@ -6,3 +6,7 @@ Some of the errors that may occur are the following:
 
 You can use this small Python code I created to disable the dedicated GPU. You can clone it with the command
 <pre> git clone https://github.com/niko-forte/macbook-dgpu </pre>
+And then run it on the terminal and run these commands.
+<pre> cd macbook-dgpu </pre>
+<pre> sudo python3 no_dGPU.py </pre>
+All you have to do is follow the on-screen instructions.
