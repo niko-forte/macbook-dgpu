@@ -5,4 +5,4 @@ Some of the errors that may occur are the following:
 ![](https://github.com/niko-forte/macbook-dgpu/blob/main/image-000.png)
 
 You can use this small Python code I created to disable the dedicated GPU. You can clone it with the command
-<pre> ``` git clone https://github.com/niko-forte/macbook-dgpu ``` </pre>
+<pre> ```bash git clone https://github.com/niko-forte/macbook-dgpu ``` </pre>
