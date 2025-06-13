@@ -3,3 +3,6 @@ Some MacBook models from 2010 to 2013 may experience issues with the dedicated G
 
 Some of the errors that may occur are the following:
 ![](https://github.com/niko-forte/macbook-dgpu/blob/main/image-000.png)
+
+You can use this small Python code I created to disable the dedicated GPU. You can clone it with the command
+<pre> ``` git clone https://github.com/niko-forte/macbook-dgpu ``` </pre>
